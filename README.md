@@ -1,5 +1,7 @@
 # prove-it-better
 
+> **Free community:** the current version of this, plus my other Claude Code skills, prompts and courses, is in my free Skool community: https://www.skool.com/iss-ai-automation-school-6342/about
+
 **A Claude Code skill for making anything better, and proving it before it ships.**
 
 Ask Claude to "make it better" and it usually rewrites things from a best-practice list, then tells you it's better. This skill makes it prove it instead. The current version is the opponent. A change only ships once it beats the current version on real cases, judged blind with the order swapped, with hard checks. It ships behind a switch you can flip back, and Claude confirms it live.
